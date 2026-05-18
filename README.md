@@ -1,5 +1,5 @@
 # Week-1-Task-Submission
-# Team Atlas Submission Repository
+# Submission Repository
 
 ## Submission Rules
 
